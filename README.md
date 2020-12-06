@@ -6,7 +6,9 @@
 
 
 ## 如何使用
-下载 Chinese.ptl 将文件需要放到:
+下载 Chinese.ptl
+
+将文件需要放到:
 Windows:
 ```
 C:\Program Files\Cisco Packet Tracer 7.3\languages\
