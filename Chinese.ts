@@ -8,19 +8,21 @@
         <location filename="../gui/DesignerFiles/AATranslatorInfo.ui" line="40"/>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1182"/>
         <source>http://www.cisco.com</source>
+        <translatorcomment>https://github.com/EmotionalAmo/Cisco-Packet-Tracer-Chinese</translatorcomment>
         <translation></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AATranslatorInfo.ui" line="13"/>
         <source>Translator Info</source>
-        <translation>EmotionalAmo</translation>
+        <translatorcomment>EmotionalAmo</translatorcomment>
+        <translation>译者信息</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AATranslatorInfo.ui" line="25"/>
         <location filename="../gui/DesignerFiles/AATranslatorInfo.ui" line="27"/>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1181"/>
         <source>Cisco</source>
-        <translation>EmotionalAmo</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6395,45 +6397,45 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="71"/>
         <source>Context Help</source>
-        <translation type="unfinished"></translation>
+        <translation>上下文帮助</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="107"/>
         <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="117"/>
         <source>ACL Filter Name</source>
-        <translation type="unfinished"></translation>
+        <translation>ACL过滤器名称</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="107"/>
         <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="117"/>
         <source>Enter a new ACL Filter name.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入新的ACL过滤器名称。</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="116"/>
         <source>Error -- Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 -- Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="116"/>
         <source>ACL Filter name cannot be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>ACL过滤器名称不能为空。</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="153"/>
         <source>Please start with either &quot;permit&quot; or &quot;deny&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>请以“permit”或“deny”开头</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="167"/>
         <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="199"/>
         <source>Invalid Input.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入无效。</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/ACLFiltersDialog.cpp" line="240"/>
         <source>Statement Removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>声明已删除。</translation>
     </message>
 </context>
 <context>
@@ -6442,13 +6444,13 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DeviceConfig/AccessPoint/APDialog.cpp" line="114"/>
         <location filename="../gui/DeviceConfig/AccessPoint/APDialog.cpp" line="179"/>
         <source>Coverage Range (meters)</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖范围（米）</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/AccessPoint/APDialog.cpp" line="119"/>
         <location filename="../gui/DeviceConfig/AccessPoint/APDialog.cpp" line="184"/>
         <source>Coverage Range (feet)</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖范围（英尺）</translation>
     </message>
 </context>
 <context>
@@ -6458,74 +6460,74 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="34"/>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="36"/>
         <source>Bookmark Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>书签管理器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="56"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="66"/>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="68"/>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="142"/>
         <source>Bookmark Title</source>
-        <translation type="unfinished"></translation>
+        <translation>书签标题</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="76"/>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="78"/>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="147"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="92"/>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="94"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="99"/>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="101"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASABookmarkManager.cpp" line="53"/>
         <source>Invalid Bookmark Title -- Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的书签标题 -- Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASABookmarkManager.cpp" line="53"/>
         <source>Enter a valid bookmark title.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入有效的书签标题。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASABookmarkManager.cpp" line="61"/>
         <source>Invalid Bookmark URL -- Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的书签URL -- Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASABookmarkManager.cpp" line="61"/>
         <source>Enter a valid bookmark URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入有效的书签URL。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASABookmarkManager.cpp" line="80"/>
         <location filename="../gui/DeviceConfig/ASA/ASABookmarkManager.cpp" line="123"/>
         <source>Error -- Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 -- Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASABookmarkManager.cpp" line="80"/>
         <source>Bookmark already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>书签已存在。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASABookmarkManager.cpp" line="123"/>
         <source>Bookmark does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>书签不存在。</translation>
     </message>
 </context>
 <context>
@@ -6533,7 +6535,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DeviceConfig/ASA/CASADialog.cpp" line="8"/>
         <source>Equivalent ASA Commands</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">等效的ASA命令</translation>
     </message>
 </context>
 <context>
@@ -6543,14 +6545,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="34"/>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="36"/>
         <source>User Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>用户管理</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="93"/>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="95"/>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="177"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="131"/>
@@ -6561,68 +6563,68 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="140"/>
         <source>Users</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="100"/>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="102"/>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="182"/>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="86"/>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="88"/>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="187"/>
         <source>Profile Name</source>
-        <translation type="unfinished"></translation>
+        <translation>配置文件名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="79"/>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="81"/>
         <location filename="../gui/DesignerFiles/ASA/ASAUserManager.ui" line="192"/>
         <source>Group Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>组策略</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASAUserManager.cpp" line="188"/>
         <source>Invalid Username -- Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的用户名 -- Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASAUserManager.cpp" line="188"/>
         <source>Select a valid username.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个有效的用户名。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASAUserManager.cpp" line="195"/>
         <source>Invalid Bookmark -- Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的书签 -- Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASAUserManager.cpp" line="195"/>
         <source>Select a valid bookmark.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个有效的书签。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASAUserManager.cpp" line="202"/>
         <source>Invalid Profile Name -- Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的配置文件名称 -- Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASAUserManager.cpp" line="202"/>
         <source>Enter a valid profile name.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入有效的配置文件名称。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASAUserManager.cpp" line="209"/>
         <source>Invalid Group Policy -- Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的组策略 -- Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/ASA/ASAUserManager.cpp" line="209"/>
         <source>Enter a valid group policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入有效的组策略。</translation>
     </message>
 </context>
 <context>
@@ -6630,12 +6632,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/AboutDialog.cpp" line="20"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="../gui/AboutDialog.cpp" line="32"/>
         <source>Version: </source>
-        <translation type="unfinished"></translation>
+        <translation>版本: </translation>
     </message>
 </context>
 <context>
@@ -6643,7 +6645,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DeviceConfig/Router/AccessRestrictions.cpp" line="247"/>
         <source>The value is out of range [A-Z, a-z, 0-9, -, _]</source>
-        <translation type="unfinished"></translation>
+        <translation>该值超出范围[A-Z，a-z，0-9，-，_]</translation>
     </message>
 </context>
 <context>
@@ -6651,7 +6653,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../engine/database/CActivityDatabaseWorker.cpp" line="80"/>
         <source>Unable to connect to database. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法连接到数据库。 %1</translation>
     </message>
 </context>
 <context>
@@ -6661,260 +6663,261 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="599"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="469"/>
         <source>Answer Network</source>
-        <translation type="unfinished"></translation>
+        <translation>应答网络</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="626"/>
         <source>Exit Test Mode? -- Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>退出测试模式？ -- Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="627"/>
         <source>Exit test mode and return to the Activity Wizard?</source>
-        <translation type="unfinished"></translation>
+        <translation>退出测试模式并返回活动向导？</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="627"/>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1449"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="215"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="979"/>
         <source>Scoring Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">计分模型</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="491"/>
         <source>Save as PKC</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为PKC</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1064"/>
         <source>Import Instruction Page</source>
-        <translation type="unfinished"></translation>
+        <translation>导入指令页</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1065"/>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1084"/>
         <source>HTML File (*.htm)</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML文件（* .htm）</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1083"/>
         <source>Export Instruction File</source>
-        <translation type="unfinished"></translation>
+        <translation>导出指令文件</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1096"/>
         <source>Choose a directory to import from</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要导入的目录</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1117"/>
         <source>Choose a directory to export to</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要导出到的目录</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1168"/>
         <source>Password Does Not Match -- Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>密码不匹配 -- Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1169"/>
         <source>The password entered does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的密码不匹配。</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1361"/>
         <source>Initial Network</source>
-        <translation type="unfinished"></translation>
+        <translation>初始网络</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1373"/>
         <source>Export File</source>
-        <translation type="unfinished"></translation>
+        <translation>导出文件</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1374"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="483"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="516"/>
         <source>Packet Tracer Network File (*.pkt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer Network 文件 (*.pkt)</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1406"/>
         <source>Import File</source>
-        <translation type="unfinished"></translation>
+        <translation>导入文件</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1407"/>
         <source>Packet Tracer File (*.pkt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer 文件 (*.pkt)</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1447"/>
         <source>Replace Initial Network? -- Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>替换初始网络？ -- Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1448"/>
         <source>Replacing the initial network with the answer network cannot be undone.
 Replace the Initial Network?</source>
-        <translation type="unfinished"></translation>
+        <translation>用应答网络替换初始网络将无法撤消。
+替换初始网络？</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="627"/>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1449"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="215"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1499"/>
         <source>Test/Check Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>测试/检查活动</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1569"/>
         <source>Exit? -- Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>退出？ -- Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1570"/>
         <source>Exiting the Activity Wizard will give you a new workspace. All unsaved settings will be lost. Do you want to exit?</source>
-        <translation type="unfinished"></translation>
+        <translation>退出活动向导将为您提供一个新的工作区。 所有未保存的设置将丢失。 你想退出吗？</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1571"/>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;是</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1571"/>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;否</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="250"/>
         <source>Do Not Test</source>
-        <translation type="unfinished"></translation>
+        <translation>不测试</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="251"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="317"/>
         <source>Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>成功</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="252"/>
         <source>Fail</source>
-        <translation type="unfinished"></translation>
+        <translation>失败</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="300"/>
         <source>N</source>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="305"/>
         <source>Y</source>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="314"/>
         <source>In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>处理中</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="320"/>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>失败</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="482"/>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>保存文件</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_AnswerNetwork.cpp" line="515"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>打开文件</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="97"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="118"/>
         <source>Enter Script ID</source>
-        <translation type="unfinished"></translation>
+        <translation>输入脚本ID</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="98"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="119"/>
         <source>Script ID: </source>
-        <translation type="unfinished"></translation>
+        <translation>脚本ID: </translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="139"/>
         <source>Import Script File</source>
-        <translation type="unfinished"></translation>
+        <translation>导入脚本文件</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="140"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="153"/>
         <source>Script Files (*.js)</source>
-        <translation type="unfinished"></translation>
+        <translation>脚本文件 (*.js)</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="152"/>
         <source>Export Script File</source>
-        <translation type="unfinished"></translation>
+        <translation>导出脚本文件</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_Scripting.cpp" line="214"/>
         <source>Do you want to replace your current scripts with the defaults?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否要用默认值替换当前脚本？</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="49"/>
         <source>Entire Range</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">整个范围</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="50"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="53"/>
         <source>Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>种子</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="51"/>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>随机</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="52"/>
         <source>Element Position</source>
-        <translation type="unfinished"></translation>
+        <translation>元素位置</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="54"/>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">序号</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="55"/>
         <source>String</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">字符串</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="56"/>
         <source>IP</source>
-        <translation type="unfinished"></translation>
+        <translation>IP</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="155"/>
         <source>Import Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>导入种子</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="156"/>
@@ -6932,84 +6935,84 @@ Replace the Initial Network?</source>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="767"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="839"/>
         <source>CSV (Comma delimited) (*.csv)</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV（以逗号分隔）（* .csv）</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="215"/>
         <source>Export Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>导出种子</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="256"/>
         <source>Import Number Pools</source>
-        <translation type="unfinished"></translation>
+        <translation>导入号码池</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="305"/>
         <source>Export Number Pools</source>
-        <translation type="unfinished"></translation>
+        <translation>导出号码池</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="346"/>
         <source>Import Number Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>导入编号变量</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="418"/>
         <source>Export Number Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>导出编号变量</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="465"/>
         <source>Import String Pools</source>
-        <translation type="unfinished"></translation>
+        <translation>导入字符串池</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="512"/>
         <source>Export String Pools</source>
-        <translation type="unfinished"></translation>
+        <translation>导出字符串池</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="553"/>
         <source>Import String Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>导入字符串变量</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="625"/>
         <source>Export String Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>导出字符串变量</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="672"/>
         <source>Import IP Address Pools</source>
-        <translation type="unfinished"></translation>
+        <translation>导入IP地址池</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="725"/>
         <source>Export IP Address Pools</source>
-        <translation type="unfinished"></translation>
+        <translation>导出IP地址池</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="766"/>
         <source>Import IP Address Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>导入IP地址变量</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="838"/>
         <source>Export IP Address Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>导出IP地址变量</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="1052"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="1101"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="1148"/>
         <source>UNKNOWN</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="2308"/>
         <source>Select a Pool</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个池</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_ECDModel.cpp" line="129"/>
@@ -7023,7 +7026,7 @@ Replace the Initial Network?</source>
         <location filename="../gui/activity/Wizard/ActivityWizard_ECDModel.cpp" line="266"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_ECDModel.cpp" line="281"/>
         <source>Packet Tracer</source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_ECDModel.cpp" line="129"/>
@@ -7037,27 +7040,27 @@ Replace the Initial Network?</source>
         <location filename="../gui/activity/Wizard/ActivityWizard_ECDModel.cpp" line="266"/>
         <location filename="../gui/activity/Wizard/ActivityWizard_ECDModel.cpp" line="281"/>
         <source>The Script Module must be running. Start it in the Scripting tab first.</source>
-        <translation type="unfinished"></translation>
+        <translation>必须运行脚本模块。 在“脚本”选项卡中启动它。</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_CodeTesting.cpp" line="106"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_CodeTesting.cpp" line="115"/>
         <source>Check Results</source>
-        <translation type="unfinished"></translation>
+        <translation>检查结果</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_CodeTesting.cpp" line="116"/>
         <source>Dynamic Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>动态检查</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_CodeTesting.cpp" line="117"/>
         <source>Environment Time</source>
-        <translation type="unfinished"></translation>
+        <translation>环境时间</translation>
     </message>
 </context>
 <context>
@@ -7065,7 +7068,7 @@ Replace the Initial Network?</source>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizardIcon.cpp" line="98"/>
         <source>Activity Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>活动向导</translation>
     </message>
 </context>
 <context>
@@ -9030,32 +9033,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2514"/>
         <source>Router IOS Text Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>路由器IOS文本字体颜色</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2591"/>
         <source>Router IOS Background Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>路由器IOS背景字体颜色</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2668"/>
         <source>PC Console Text Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>PC控制台文本字体颜色</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2745"/>
         <source>PC Console Background Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>PC控制台背景字体颜色</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2813"/>
         <source>Tool Tip Text Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>工具提示文字字体颜色</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2881"/>
         <source>Tool Tip Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>工具提示字体颜色</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3196"/>
@@ -10618,80 +10621,80 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6254"/>
         <source>Encapsulation</source>
-        <translation type="unfinished"></translation>
+        <translation>封装形式</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6268"/>
         <source>EIGRPv6 Summary Address</source>
-        <translation type="unfinished"></translation>
+        <translation>EIGRPv6摘要地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6282"/>
         <source>EIGRPv6 Hello Interval</source>
-        <translation type="unfinished"></translation>
+        <translation>EIGRPv6 Hello间隔</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6296"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8201"/>
         <source>EIGRPv6</source>
-        <translation type="unfinished"></translation>
+        <translation>EIGRPv6</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6310"/>
         <source>EIGRP Summary Addresses</source>
-        <translation type="unfinished"></translation>
+        <translation>EIGRP摘要地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6324"/>
         <source>EIGRP Hello Interval</source>
-        <translation type="unfinished"></translation>
+        <translation>EIGRP Hello间隔</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6338"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11577"/>
         <source>Dynamic Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>动态模式</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6352"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11591"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13876"/>
         <source>Duplex</source>
-        <translation type="unfinished"></translation>
+        <translation>双工</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6366"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11605"/>
         <source>DHCP Snooping Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP监听信任</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6380"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11619"/>
         <source>DHCP Snooping Limit Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP监听限制率</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6394"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11633"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13890"/>
         <source>DHCP client enable</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP客户端启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6422"/>
         <source>Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>延迟</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6436"/>
         <source>Default IP Address Pool</source>
-        <translation type="unfinished"></translation>
+        <translation>默认IP地址池</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6450"/>
         <source>Clock Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>时钟频率</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6464"/>
@@ -10699,7 +10702,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11661"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13075"/>
         <source>CDP Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>已启用CDP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6478"/>
@@ -10717,21 +10720,21 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6506"/>
         <source>Bandwidth Info</source>
-        <translation type="unfinished"></translation>
+        <translation>带宽信息</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6520"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11703"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13918"/>
         <source>Bandwidth</source>
-        <translation type="unfinished"></translation>
+        <translation>带宽</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6534"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11717"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13932"/>
         <source>ARP Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>ARP超时</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6548"/>
@@ -10765,18 +10768,18 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11746"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13947"/>
         <source>Physical Location</source>
-        <translation type="unfinished"></translation>
+        <translation>物理位置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6633"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6652"/>
         <source>Parser View</source>
-        <translation type="unfinished"></translation>
+        <translation>解析器视图</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6646"/>
         <source>Views</source>
-        <translation type="unfinished"></translation>
+        <translation>视图</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6661"/>
@@ -10808,19 +10811,19 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11849"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11863"/>
         <source>NTP Client</source>
-        <translation type="unfinished"></translation>
+        <translation>NTP 客户端</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6730"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11773"/>
         <source>Update Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>更新日历</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6744"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11787"/>
         <source>Trusted Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>可信密钥</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6758"/>
@@ -10830,32 +10833,32 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11820"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11834"/>
         <source>NTP Server Information</source>
-        <translation type="unfinished"></translation>
+        <translation>NTP服务器信息</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6771"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11814"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14002"/>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>密钥</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6785"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11828"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6800"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11843"/>
         <source>NTP Authenticate</source>
-        <translation type="unfinished"></translation>
+        <translation>NTP验证</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6814"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11857"/>
         <source>Authentication Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>验证密钥</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6829"/>
@@ -10863,17 +10866,17 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6862"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6876"/>
         <source>Netflow</source>
-        <translation type="unfinished"></translation>
+        <translation>净流量</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6842"/>
         <source>Records</source>
-        <translation type="unfinished"></translation>
+        <translation>记录</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6856"/>
         <source>Monitors</source>
-        <translation type="unfinished"></translation>
+        <translation>监控器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6870"/>
@@ -10941,13 +10944,13 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6996"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7080"/>
         <source>Inside Source Static</source>
-        <translation type="unfinished"></translation>
+        <translation>内部静态源</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7010"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7094"/>
         <source>Inside Source List</source>
-        <translation type="unfinished"></translation>
+        <translation>内部源列表</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7025"/>
@@ -10962,34 +10965,34 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7052"/>
         <source>Outside Source Static</source>
-        <translation type="unfinished"></translation>
+        <translation>外部静态源</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7066"/>
         <source>Outside Source List</source>
-        <translation type="unfinished"></translation>
+        <translation>外部源列表</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7109"/>
         <source>MLS QoS Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>MLS QoS启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7123"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7142"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7156"/>
         <source>Management Access List</source>
-        <translation type="unfinished"></translation>
+        <translation>管理访问列表</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7136"/>
         <source>Telnet Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Telnet 超时</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7150"/>
         <source>Ssh Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH 超时</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7165"/>
@@ -11001,19 +11004,19 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11905"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11919"/>
         <source>Login Options</source>
-        <translation type="unfinished"></translation>
+        <translation>登陆选项</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7178"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11885"/>
         <source>Login On Success</source>
-        <translation type="unfinished"></translation>
+        <translation>登陆成功</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7192"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11899"/>
         <source>Login On Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>登陆失败</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7206"/>
@@ -11027,7 +11030,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11960"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11974"/>
         <source>Blocking</source>
-        <translation type="unfinished"></translation>
+        <translation>阻挡</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7219"/>
@@ -11045,49 +11048,49 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12473"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12599"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7247"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11954"/>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>持续时间</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7261"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11968"/>
         <source>Attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试次数</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7290"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11997"/>
         <source>Service timestamp log</source>
-        <translation type="unfinished"></translation>
+        <translation>日志服务时间戳</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7304"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12011"/>
         <source>Service timestamp debug</source>
-        <translation type="unfinished"></translation>
+        <translation>调试服务时间戳</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7318"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12025"/>
         <source>Logging On</source>
-        <translation type="unfinished"></translation>
+        <translation>登录中</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7332"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12039"/>
         <source>Logging console</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">记录控制台</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7346"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12053"/>
         <source>Logging buffered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">记录缓冲</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7361"/>
@@ -11100,7 +11103,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7389"/>
         <source>Licenses</source>
-        <translation type="unfinished"></translation>
+        <translation>许可</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7403"/>
@@ -11120,7 +11123,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7430"/>
         <source>Notify Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通知日志</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7444"/>
@@ -11148,7 +11151,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12096"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12347"/>
         <source>IP Domain Name</source>
-        <translation type="unfinished"></translation>
+        <translation>IP域名</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7515"/>
@@ -11261,27 +11264,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7750"/>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>组</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7764"/>
         <source>Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>加密</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7778"/>
         <source>Authentication type</source>
-        <translation type="unfinished"></translation>
+        <translation>认证方式</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7794"/>
         <source>Crypto ISAKMP Key Address Pairs</source>
-        <translation type="unfinished"></translation>
+        <translation>加密ISAKMP密钥地址对</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7808"/>
         <source>Crypto IpSec Transform Sets</source>
-        <translation type="unfinished"></translation>
+        <translation>加密IpSec转换集</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7822"/>
@@ -11302,31 +11305,31 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7865"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12138"/>
         <source>Host Name</source>
-        <translation type="unfinished"></translation>
+        <translation>主机名</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7879"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12152"/>
         <source>FTP Username</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP 用户名</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7893"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12166"/>
         <source>FTP Password</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP 密码</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7907"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12180"/>
         <source>FTP Passive</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP 被动模式</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7921"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12194"/>
         <source>Flash Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash文件</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7935"/>
@@ -11345,12 +11348,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8122"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8136"/>
         <source>Firewall</source>
-        <translation type="unfinished"></translation>
+        <translation>防火墙</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7948"/>
         <source>UDP Idle Time</source>
-        <translation type="unfinished"></translation>
+        <translation>UDP空闲时间</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7962"/>
@@ -11365,12 +11368,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7990"/>
         <source>TCP Idle Time</source>
-        <translation type="unfinished"></translation>
+        <translation>TCP空闲时间</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8004"/>
         <source>SYN-WAIT Time</source>
-        <translation type="unfinished"></translation>
+        <translation>SYN-等待时间</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8018"/>
@@ -11415,7 +11418,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8130"/>
         <source>DNS Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS 超时</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8145"/>
@@ -11429,7 +11432,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8158"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12221"/>
         <source>Load Balance Method</source>
-        <translation type="unfinished"></translation>
+        <translation>负载均衡方法</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8173"/>
@@ -11554,7 +11557,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12381"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12395"/>
         <source>DHCP Snooping Binding DB Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP侦听绑定数据库代理</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8466"/>
@@ -11582,7 +11585,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12465"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12479"/>
         <source>DHCP Snooping</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP监听</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8522"/>
@@ -11742,7 +11745,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14825"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14913"/>
         <source>Default Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>默认网关</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8801"/>
@@ -11750,7 +11753,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9166"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12529"/>
         <source>Excluded Addresses</source>
-        <translation type="unfinished"></translation>
+        <translation>排除地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8815"/>
@@ -11774,7 +11777,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12557"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14855"/>
         <source>DHCP Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8858"/>
@@ -11785,7 +11788,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9101"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9115"/>
         <source>DHCP Server (inside)</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP服务器（内部）</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9125"/>
@@ -11801,7 +11804,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12549"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12563"/>
         <source>DHCP Server</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP服务器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9209"/>
@@ -11811,46 +11814,46 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12591"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12605"/>
         <source>DHCP Relay Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP中继代理</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9222"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12585"/>
         <source>Relay Information Trust All</source>
-        <translation type="unfinished"></translation>
+        <translation>中继信息信任所有</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9251"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12614"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14871"/>
         <source>Device Type</source>
-        <translation type="unfinished"></translation>
+        <translation>设备类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9265"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12628"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14885"/>
         <source>Device Model</source>
-        <translation type="unfinished"></translation>
+        <translation>设备型号</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9279"/>
         <source>Custom Queues</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义队列</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9293"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12656"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14927"/>
         <source>Custom Device Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义设备属性</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9307"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12670"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14941"/>
         <source>Custom Device Model</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义设备型号</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9321"/>
@@ -11921,36 +11924,36 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9699"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9718"/>
         <source>Command Privilege</source>
-        <translation type="unfinished"></translation>
+        <translation>命令权限</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9712"/>
         <source>Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>命令</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9727"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13048"/>
         <source>Clock Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>时钟时区</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9741"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9760"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9774"/>
         <source>Clientless Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>无客户端设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9754"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14366"/>
         <source>Users</source>
-        <translation type="unfinished"></translation>
+        <translation>用户</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9768"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9783"/>
@@ -12118,7 +12121,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="10398"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14016"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>认证方式</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="10412"/>
@@ -12577,32 +12580,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DeviceConfig/AlgorithmSettings.cpp" line="208"/>
         <source>Out of Range [1-100]</source>
-        <translation type="unfinished"></translation>
+        <translation>超出范围[1-100]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/AlgorithmSettings.cpp" line="113"/>
         <source>CBAC value out of Range [0.1-100.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>CBAC值超出范围[0.1-100.0]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/AlgorithmSettings.cpp" line="136"/>
         <source>Max. no. of connections out of Range [1-100]</source>
-        <translation type="unfinished"></translation>
+        <translation>最大连接数超出范围[1-100]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/AlgorithmSettings.cpp" line="160"/>
         <source>Max. open sessions out of Range [1-10000]</source>
-        <translation type="unfinished"></translation>
+        <translation>最大开放会话数超出范围[1-10000]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/AlgorithmSettings.cpp" line="182"/>
         <source>Max. Retransmission Timeout out of Range [1000-5000]</source>
-        <translation type="unfinished"></translation>
+        <translation>最大重传超时超出范围[1000-5000]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/AlgorithmSettings.cpp" line="232"/>
         <source>Storm control multiplier out of Range [1.0-100000.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>风暴控制乘数超出范围[1.0-100000.0]</translation>
     </message>
 </context>
 <context>
@@ -12610,27 +12613,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/dialogs/options/AlgorithmSettingsDlg.cpp" line="64"/>
         <source>CBAC session multiplier out of Range [0.1-100.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>CBAC会话乘数超出范围[0.1-100.0]</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/options/AlgorithmSettingsDlg.cpp" line="72"/>
         <source>TCP max. connections out of Range [1-100]</source>
-        <translation type="unfinished"></translation>
+        <translation>TCP最大 连接超出范围[1-100]</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/options/AlgorithmSettingsDlg.cpp" line="80"/>
         <source>TCP open sessions out of Range [1-10000]</source>
-        <translation type="unfinished"></translation>
+        <translation>TCP开放会话超出范围[1-10000]</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/options/AlgorithmSettingsDlg.cpp" line="88"/>
         <source>TCP retransmission timeout out of Range [1000-5000]</source>
-        <translation type="unfinished"></translation>
+        <translation>TCP重传超时超出范围[1000-5000]</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/options/AlgorithmSettingsDlg.cpp" line="104"/>
         <source>Storm control multiplier out of Range [1.0-100000.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>风暴控制乘数超出范围[1.0-100000.0]</translation>
     </message>
 </context>
 <context>
@@ -12641,7 +12644,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="44"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="47"/>
         <source>Algorithm Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>算法设定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="69"/>
@@ -12653,12 +12656,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="80"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="83"/>
         <source>Half-Open Session Multiplier:</source>
-        <translation type="unfinished"></translation>
+        <translation>半开放式会话乘数：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="103"/>
         <source>Half Open Session Multiplier</source>
-        <translation type="unfinished"></translation>
+        <translation>半开放式会话乘数</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="121"/>
@@ -12668,31 +12671,31 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="129"/>
         <source>Maximum Number of TCP connections</source>
-        <translation type="unfinished"></translation>
+        <translation>最大TCP连接数</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="139"/>
         <source>Maximum number of opened TCP Sessions</source>
-        <translation type="unfinished"></translation>
+        <translation>打开的TCP会话的最大数量</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="149"/>
         <source>Maximum retransmission timeout in milliseconds</source>
-        <translation type="unfinished"></translation>
+        <translation>最大重传超时（以毫秒为单位）</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="159"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="162"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="165"/>
         <source>Maximum Number of Connections:</source>
-        <translation type="unfinished"></translation>
+        <translation>最大连接数：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="172"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="175"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="178"/>
         <source>Maximum Number of Opened Sessions:</source>
-        <translation type="unfinished"></translation>
+        <translation>最大打开会话数：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="203"/>
@@ -12704,12 +12707,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="214"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="217"/>
         <source>Queue Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>队列大小：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="237"/>
         <source>QoS Queue size</source>
-        <translation type="unfinished"></translation>
+        <translation>QoS队列大小</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="252"/>
@@ -12721,33 +12724,33 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="263"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="266"/>
         <source>Storm Control Multiplier:</source>
-        <translation type="unfinished"></translation>
+        <translation>风暴控制乘数：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="286"/>
         <source>Broadcast storm control multiplier</source>
-        <translation type="unfinished"></translation>
+        <translation>广播风暴控制乘法器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="329"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="332"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="335"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="342"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="345"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="348"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="185"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="188"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="191"/>
         <source>Maximum Retransmission Timeout in Milliseconds:</source>
-        <translation type="unfinished"></translation>
+        <translation>最大重传超时（以毫秒为单位）：</translation>
     </message>
 </context>
 <context>
@@ -12770,68 +12773,68 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="85"/>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="86"/>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="87"/>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="88"/>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="89"/>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="90"/>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="91"/>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="92"/>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="93"/>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="94"/>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="349"/>
         <source>Unknown Number</source>
-        <translation type="unfinished"></translation>
+        <translation>未知号码</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="363"/>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="566"/>
         <source>Enter Number</source>
-        <translation type="unfinished"></translation>
+        <translation>输入号码</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="385"/>
         <source>The line is disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>线路断开</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="403"/>
@@ -12841,12 +12844,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="421"/>
         <source>The phone is ringing</source>
-        <translation type="unfinished"></translation>
+        <translation>电话响铃中</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="428"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>已连接</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="437"/>
@@ -12866,7 +12869,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="469"/>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>忙</translation>
     </message>
 </context>
 <context>
@@ -12875,18 +12878,20 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="112"/>
         <source>External
 Port</source>
-        <translation type="unfinished"></translation>
+        <translation>外部
+端口</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="113"/>
         <source>Internal
 Port</source>
-        <translation type="unfinished"></translation>
+        <translation>内部
+端口</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="114"/>
         <source>Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>协议</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="115"/>
@@ -12896,7 +12901,7 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="116"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>启用</translation>
     </message>
 </context>
 <context>
@@ -14096,74 +14101,74 @@ Port</source>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="14"/>
         <source>ACL Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>ACL过滤器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="28"/>
         <source>ACL name</source>
-        <translation type="unfinished"></translation>
+        <translation>ACL名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="35"/>
         <source>ACL Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>ACL过滤器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="43"/>
         <source>New filter</source>
-        <translation type="unfinished"></translation>
+        <translation>新过滤器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="46"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="56"/>
         <source>Rename filter</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名过滤器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="59"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="66"/>
         <source>Delete Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>删除过滤器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="69"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="88"/>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="91"/>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="94"/>
         <source>Enter an extended ACL statement below. Start with &quot;permit&quot; or &quot;deny&quot;. The next available commands will show up in the Context Help text field.</source>
-        <translation type="unfinished"></translation>
+        <translation>在下面输入扩展的ACL语句。 以“permit”或“deny”开头。 接下来的可用命令将显示在“上下文帮助”文本字段中。</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="106"/>
         <source>ACL statement</source>
-        <translation type="unfinished"></translation>
+        <translation>ACL声明</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="113"/>
         <source>Submit statement</source>
-        <translation type="unfinished"></translation>
+        <translation>提交陈述</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="116"/>
         <source>Submit</source>
-        <translation type="unfinished"></translation>
+        <translation>提交</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="131"/>
         <source>Context help</source>
-        <translation type="unfinished"></translation>
+        <translation>上下文帮助</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="143"/>
@@ -14172,19 +14177,23 @@ Port</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="160"/>
         <source>List of statements</source>
-        <translation type="unfinished"></translation>
+        <translation>声明清单</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="167"/>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="170"/>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="173"/>
         <source>Delete Statement</source>
-        <translation type="unfinished"></translation>
+        <translation>删除声明</translation>
     </message>
 </context>
 <context>
@@ -57213,55 +57222,55 @@ and all previous settings will be erased.</source>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="23"/>
         <source>Right Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>右侧工具栏</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="59"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="62"/>
         <source>Select (Esc)</source>
-        <translation type="unfinished"></translation>
+        <translation>选择（Esc）</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="93"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="96"/>
         <source>Resize Shape (Alt+R)</source>
-        <translation type="unfinished"></translation>
+        <translation>调整形状（Alt + R）</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="127"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="130"/>
         <source>Place Note (N)</source>
-        <translation type="unfinished"></translation>
+        <translation>地名（N）</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="195"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="198"/>
         <source>Delete (Del)</source>
-        <translation type="unfinished"></translation>
+        <translation>删除（DEL）</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="161"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="164"/>
         <source>Inspect (I)</source>
-        <translation type="unfinished"></translation>
+        <translation>检查（I）</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="229"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="232"/>
         <source>Draw a shape (D). Use this tool for encirclement tests.</source>
-        <translation type="unfinished"></translation>
+        <translation>画一个形状（D）。 使用此工具进行包围测试。</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="270"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="273"/>
         <source>Add Simple PDU (P)</source>
-        <translation type="unfinished"></translation>
+        <translation>添加简单PDU（P）</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="304"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Common_PL_ToolBox.ui" line="307"/>
         <source>Add Complex PDU (C)</source>
-        <translation type="unfinished"></translation>
+        <translation>添加复杂PDU（C）</translation>
     </message>
 </context>
 <context>
@@ -57738,7 +57747,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="14"/>
         <source>HTML Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML编辑器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="37"/>
@@ -58138,71 +58147,71 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="17"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>登陆</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="58"/>
         <source>https://www.netacad.com/login</source>
-        <translation type="unfinished"></translation>
+        <translation>https://www.netacad.com/login</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="167"/>
         <source>Are you a new user?</source>
-        <translation type="unfinished"></translation>
+        <translation>你是新用户吗？</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="219"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sign up for Cisco Networking Academy and get free access to Packet Tracer and online course.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注册Cisco Networking Academy并免费访问Packet Tracer和在线课程。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="280"/>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="283"/>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="286"/>
         <source>Sign Up</source>
-        <translation type="unfinished"></translation>
+        <translation>注册</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="335"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Continue as a Guest. Guest users can save files up to 3 times.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;继续作为访客。 访客最多可以保存3次文件。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="399"/>
         <source>Guest users may save up to 3 times.</source>
-        <translation type="unfinished"></translation>
+        <translation>访客最多可以保存3次文件。</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="402"/>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="405"/>
         <source>Guest Login</source>
-        <translation type="unfinished"></translation>
+        <translation>访客登陆</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="408"/>
         <source>Continue as a Guest</source>
-        <translation type="unfinished"></translation>
+        <translation>继续以访客身份</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="457"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Checking this will skip prompting for login for the next 3 months. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;If you want to log out, use File -&amp;gt; Exit and Logout&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;选中此选项将跳过接下来3个月的登录提示。 &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;如果要注销，请使用File -&amp;gt; 退出并注销&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="460"/>
         <source>Keep me logged in (Recommended for personal computer user)</source>
-        <translation type="unfinished"></translation>
+        <translation>让我保持登录状态（建议个人计算机用户使用）</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="475"/>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="478"/>
         <source>A Cisco Netacad.com account is required to use the full features of Packet Tracer. Please sign in with your Netacad.com Credentials. If you do not have a Netacad.com account, please click &quot;Guest Login&quot; button to proceed. Proxy can be set in the Preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要使用Cisco Netacad.com帐户才能使用Packet Tracer的全部功能。 请使用您的Netacad.com凭据登录。 如果您没有Netacad.com帐户，请单击“访客登录”按钮继续。 可以在首选项中设置代理。</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="484"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DOWNLOADING, INSTALLING, OR USING THE CISCO PACKET TRACER SOFTWARE CONSTITUTES ACCEPTANCE OF THE CISCO END USER LICENSE AGREEMENT (“EULA” &lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&quot;&gt;&lt;span style=&quot; font-family:&apos;Calibri&apos;,&apos;sans-serif&apos;; text-decoration: underline; color:#0563c1;&quot;&gt;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&lt;/span&gt;&lt;/a&gt;) AND THE SUPPLEMENTAL END USER LICENSE AGREEMENT FOR CISCO PACKET TRACER (“SEULA” &lt;a href=&quot;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&quot;&gt;&lt;span style=&quot; font-family:&apos;Calibri&apos;,&apos;sans-serif&apos;; text-decoration: underline; color:#0563c1;&quot;&gt;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&lt;/span&gt;&lt;/a&gt;). IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THE EULA AND SEULA, THEN CISCO SYSTEMS, INC. (“CISCO”) IS UNWILLING TO LICENSE THE SOFTWARE TO YOU AND YOU ARE NOT AUTHORIZED TO DOWNLOAD, INSTALL OR USE THE SOFTWARE.​&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;下载，安装或使用CISCO PACKET TRACER软件构成对CISCO最终用户许可协议（“ EULA”）的接受&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&quot;&gt;&lt;span style=&quot; font-family:&apos;Calibri&apos;,&apos;sans-serif&apos;; text-decoration: underline; color:#0563c1;&quot;&gt;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&lt;/span&gt;&lt;/a&gt;以及CISCO PACKET TRACER的补充最终用户许可协议（“ SEULA”）。&lt;a href=&quot;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&quot;&gt;&lt;span style=&quot; font-family:&apos;Calibri&apos;,&apos;sans-serif&apos;; text-decoration: underline; color:#0563c1;&quot;&gt;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&lt;/span&gt;&lt;/a&gt; 如果您不同意EULA和SEULA的所有条款，则CISCO SYSTEMS，INC。（“ CISCO”）将授权您使用该软件，并且您无权下载，安装或使用该软件。​&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -59945,22 +59954,22 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
         <location filename="../gui/DesignerFiles/LwappConfig.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>来自</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/LwappConfig.ui" line="42"/>
         <source>Primary Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>主控制器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/LwappConfig.ui" line="52"/>
         <source>Secondary Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>二级控制器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/LwappConfig.ui" line="62"/>
         <source>Tertiary Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>三级控制器</translation>
     </message>
 </context>
 <context>
@@ -59968,19 +59977,20 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
         <location filename="../gui/main.cpp" line="735"/>
         <source>You can change this setting in Options-&gt;Preferences at a later time.</source>
-        <translation type="unfinished"></translation>
+        <translation>您可以稍后在“选项”-&gt;“首选项”中更改此设置。</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="734"/>
         <source>Cannot write to folder. Setting user folder to Packet Tracer&apos;s installed folder.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入文件夹。 将用户文件夹设置为Packet Tracer的已安装文件夹。
+</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="978"/>
         <location filename="../gui/main.cpp" line="993"/>
         <source>Packet Tracer Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer已过期</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="979"/>
@@ -59988,180 +59998,194 @@ The typical sequence in creating a script module is as follows:</source>
         <source>The Packet Tracer test period is over.
 This application is no longer functional.
 Please contact your test coordinator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer测试周期已结束。
+此应用程序不再起作用。
+请联系您的测试协调员。</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1005"/>
         <location filename="../gui/main.cpp" line="1010"/>
         <source>Packet Tracer Expires Soon</source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer即将过期</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1006"/>
         <source>The Packet Tracer test period is over.
 This application will expire in two weeks.
 Please contact your test coordinator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer测试周期已结束。
+此申请将在两周后过期。
+请联系您的测试协调员。</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1011"/>
         <source>The Packet Tracer test period is over.
 This application will expire in %1 day(s).
 Please contact your test coordinator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer测试周期已结束。
+此应用程序将在 %1 天后过期。
+请联系您的测试协调员。</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1602"/>
         <source>Authentication Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>验证失败</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1282"/>
         <location filename="../gui/main.cpp" line="1427"/>
         <source>    Name: </source>
-        <translation type="unfinished"></translation>
+        <translation>    名称: </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1283"/>
         <location filename="../gui/main.cpp" line="1428"/>
         <source>    ID: </source>
-        <translation type="unfinished"></translation>
+        <translation>    ID: </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1284"/>
         <location filename="../gui/main.cpp" line="1429"/>
         <source>    Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>    作者: </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1285"/>
         <location filename="../gui/main.cpp" line="1430"/>
         <source>    Description: </source>
-        <translation type="unfinished"></translation>
+        <translation>    描述: </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1311"/>
         <location filename="../gui/main.cpp" line="1456"/>
         <source>    Publisher Certificate Information:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>    发布者证书信息:
+</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1312"/>
         <location filename="../gui/main.cpp" line="1457"/>
         <source>        Issued To: </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1313"/>
         <location filename="../gui/main.cpp" line="1458"/>
         <source>        Issued By: </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1314"/>
         <location filename="../gui/main.cpp" line="1459"/>
         <source>        Valid Dates: </source>
-        <translation type="unfinished"></translation>
+        <translation>        有效日期: </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1315"/>
         <location filename="../gui/main.cpp" line="1460"/>
         <source> to </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1316"/>
         <location filename="../gui/main.cpp" line="1461"/>
         <source>        Serial Number: </source>
-        <translation type="unfinished"></translation>
+        <translation>        序列号: </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1325"/>
         <source>Packet Tracer has detected a new script module, but the publisher certificate of this script module has expired or is blacklisted.</source>
-        <translation type="unfinished"></translation>
+        <translation>语音翻译
+130 / 5000
+翻译结果
+Packet Tracer已检测到新的脚本模块，但是此脚本模块的发布者证书已过期或被列入黑名单。</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1328"/>
         <location filename="../gui/main.cpp" line="1345"/>
         <location filename="../gui/main.cpp" line="1352"/>
         <source>Cisco Packet Tracer - Add New Script Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Cisco Packet Tracer - 添加新的脚本模块</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1342"/>
         <source>Packet Tracer has detected a new script module, but the publisher of this script module is in the Untrusted Publishers list. If you want to enable this script module, please go to Options-&gt;Preferences and remove the publisher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer已检测到新的脚本模块，但是此脚本模块的发布者在“不受信任的发布者”列表中。 如果要启用此脚本模块，请转到“选项”-&gt;“首选项”并删除发布者。</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1353"/>
         <source>Packet Tracer has detected a new script module. Do you want to enable this script module?
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer已检测到新的脚本模块。 您要启用此脚本模块吗？
+
+</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1360"/>
         <location filename="../gui/main.cpp" line="1506"/>
         <source>Always from Same Publisher</source>
-        <translation type="unfinished"></translation>
+        <translation>始终来自同一发布者</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1361"/>
         <location filename="../gui/main.cpp" line="1507"/>
         <source>Never from Same Publisher</source>
-        <translation type="unfinished"></translation>
+        <translation>从不来自同一发布者</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1363"/>
         <location filename="../gui/main.cpp" line="1509"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1364"/>
         <location filename="../gui/main.cpp" line="1510"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1470"/>
         <source>Packet Tracer has detected a new ExApp, but the publisher certificate of this ExApp has expired or is blacklisted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer已检测到新的ExApp，但此ExApp的发布者证书已过期或被列入黑名单。</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1473"/>
         <location filename="../gui/main.cpp" line="1490"/>
         <location filename="../gui/main.cpp" line="1498"/>
         <source>Cisco Packet Tracer - Add New ExApp</source>
-        <translation type="unfinished"></translation>
+        <translation>Cisco Packet Tracer - 添加新的ExApp</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1487"/>
         <source>Packet Tracer has detected a new ExApp, but the publisher of this ExApp is in the Untrusted Publishers list. If you want to enable this ExApp, please go to Options-&gt;Preferences and remove the publisher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer已检测到新的ExApp，但此ExApp的发布者在“不受信任的发布者”列表中。 如果要启用此ExApp，请转到“选项”-&gt;“首选项”并删除发布者。</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1499"/>
         <source>Packet Tracer has detected a new ExApp. Do you want to enable this ExApp?
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Packet Tracer已检测到新的ExApp。 您要启用此ExApp吗？
+
+</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1603"/>
         <source>netacad.com login failed. Cisco Packet Tracer is shutting down.</source>
-        <translation type="unfinished"></translation>
+        <translation>netacad.com登录失败。 Cisco Packet Tracer正在关闭。</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1625"/>
         <source>Authentication Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>身份验证警告</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1626"/>
         <source>An issue was encountered during netacad.com login. You may continue using the full functions of Cisco Packet Tracer, but you will be prompted to log in again the next time you restart your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>在netacad.com登录期间遇到问题。 您可以继续使用Cisco Packet Tracer的全部功能，但是下次您重新启动计算机时，系统将提示您重新登录。</translation>
     </message>
 </context>
 <context>
@@ -60170,7 +60194,7 @@ Please contact your test coordinator.</source>
         <location filename="../gui/DeviceConfig/Templates/CDeviceConfigUtils.cpp" line="320"/>
         <location filename="../gui/DeviceConfig/Templates/CDeviceConfigUtils.cpp" line="334"/>
         <source>/%1 is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>/%1 是无效的。</translation>
     </message>
 </context>
 </TS>
