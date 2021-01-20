@@ -17,3 +17,8 @@ MacOS:
 ```
 /Applications/Cisco Packet Tracer 7.3/Cisco Packet Tracer 7.3.app/Contents/LANGUAGES
 ```
+
+在放置文件后还需要进入软件下将 Languages 栏设为 Chinese.ptl (感谢 gorgeousdays 提醒)
+```
+Options\Preferences\Interface 
+```
