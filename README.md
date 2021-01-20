@@ -35,6 +35,8 @@ git clone https://github.com/EmotionalAmo/Cisco-Packet-Tracer-Chinese.git
 
 #### 方法二：
 
+点击下面的链接下载文件
+
 https://github.com/EmotionalAmo/Cisco-Packet-Tracer-Chinese/archive/master.zip
 
 
@@ -58,7 +60,5 @@ Chinese.ts
 #### 方法二（邮件）：
 通过邮件发送给我
 标题格式 你的昵称-CPT汉化
-# 
-# 
 # 
 #### 贡献者：等待你们加入
