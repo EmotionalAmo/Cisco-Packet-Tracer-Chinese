@@ -8135,6 +8135,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="545"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="548"/>
         <source>http://www.cisco.com</source>
+        <translatorcomment>https://github.com/EmotionalAmo/Cisco-Packet-Tracer-Chinese</translatorcomment>
         <translation>网址</translation>
     </message>
     <message>
