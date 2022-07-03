@@ -1,5 +1,7 @@
 # Cisco-Packet-Tracer-Chinese
 
+* 现已推出 Cisco Packet Tracer 8.1.1 版本汉化文件(也是没汉化完的)
+
 * 翻译文件基于 Cisco Packet Tracer 7.3
 * 由于是从 0 开始汉化，如有翻译不对的地方，还麻烦各位指正一下。
 * 当前汉化已完成 5%
@@ -18,7 +20,7 @@ MacOS:
 /Applications/Cisco Packet Tracer 7.3/Cisco Packet Tracer 7.3.app/Contents/LANGUAGES
 ```
 
-在放置文件后还需要进入软件下将 Languages 栏设为 Chinese.ptl (感谢 gorgeousdays 提醒)
+在放置文件后还需要进入软件下将 Languages 栏设为 Chinese.ptl (感谢 [gorgeousdays](https://github.com/gorgeousdays) 提醒)
 ```
 Options\Preferences\Interface 
 ```
