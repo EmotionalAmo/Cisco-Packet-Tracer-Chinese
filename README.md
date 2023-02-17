@@ -1,5 +1,7 @@
 # Cisco-Packet-Tracer-Chinese
 
+# 摆烂中，要是有新版本出来提交一下 Issues 看到会更新新的机翻汉化
+
 * 现已推出 Cisco Packet Tracer 8.1.1 版本完整汉化文件(由于懒出天际用 jio 糊了个 python 自动汉化, 全程谷歌翻译)
 
 * 翻译文件基于 Cisco Packet Tracer 7.3(因为太懒，加上现在搞 HUAWEI 去了, 7.3 的汉化停了)
