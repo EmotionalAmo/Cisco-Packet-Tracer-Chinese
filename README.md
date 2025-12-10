@@ -2,9 +2,9 @@
 
 # 摆烂中，要是有新版本出来提交一下 Issues 看到会更新新的机翻汉化
 
-* 现已推出 Cisco Packet Tracer 8.1.1 版本完整汉化文件(由于懒出天际用 jio 糊了个 python 自动汉化, 全程谷歌翻译)
+* 现已推出 Cisco Packet Tracer 9.0.0 版本完整汉化文件(由于懒出天际用 jio 糊了个 python 自动汉化, 全程谷歌翻译)
 
-* 翻译文件基于 Cisco Packet Tracer 7.3(因为太懒，加上现在搞 HUAWEI 去了, 7.3 的汉化停了)
+* ~~翻译文件基于 Cisco Packet Tracer 7.3(因为太懒，加上现在搞 HUAWEI 去了, 7.3 的汉化停了)~~
 
 * ~~由于是从 0 开始汉化，如有翻译不对的地方，还麻烦各位指正一下。~~
 
@@ -17,11 +17,11 @@
 将文件需要放到:
 Windows:
 ```
-C:\Program Files\Cisco Packet Tracer 7.3\languages\
+C:\Program Files\Cisco Packet Tracer X.X\languages\
 ```
 MacOS:
 ```
-/Applications/Cisco Packet Tracer 7.3/Cisco Packet Tracer 7.3.app/Contents/LANGUAGES
+/Applications/Cisco Packet Tracer X.X/Cisco Packet Tracer X.X.app/Contents/LANGUAGES
 ```
 
 在放置文件后还需要进入软件下将 Languages 栏设为 Chinese.ptl (感谢 [gorgeousdays](https://github.com/gorgeousdays) 提醒)
