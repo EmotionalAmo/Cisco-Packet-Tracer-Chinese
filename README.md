@@ -1,5 +1,7 @@
 # Cisco-Packet-Tracer-Chinese
 
+# Release 中的 9.0.0 使用 claude-opus-4-6 模型汉化，感谢 [ligonfei](https://github.com/ligonfei)  提供该版本(推荐使用)
+
 # 摆烂中，要是有新版本出来提交一下 Issues 看到会更新新的机翻汉化
 
 * 现已推出 Cisco Packet Tracer 9.0.0 版本完整汉化文件(由于懒出天际用 jio 糊了个 python 自动汉化, 全程谷歌翻译)
@@ -8,7 +10,7 @@
 
 * ~~由于是从 0 开始汉化，如有翻译不对的地方，还麻烦各位指正一下。~~
 
-* 当前汉化已完成 ~~5%~~ 100%机翻
+* 当前汉化已完成 ~~5%~~ 100% 机翻/ AI 翻
 
 
 ## # 如何使用
@@ -68,3 +70,4 @@ Chinese.ts
 标题格式 你的昵称-CPT汉化
 # 
 #### 贡献者：等待你们加入
+[ligonfei](https://github.com/ligonfei)  
