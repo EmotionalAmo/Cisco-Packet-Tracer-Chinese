@@ -2,7 +2,7 @@
 
 # Release 中的 9.0.0 使用 claude-opus-4-6 模型汉化，感谢 [ligonfei](https://github.com/ligonfei)  提供该版本(推荐使用)
 
-# 摆烂中，要是有新版本出来提交一下 Issues 看到会更新新的机翻汉化
+## # 摆烂中，要是有新版本出来提交一下 Issues 看到会更新新的机翻汉化
 
 * 现已推出 Cisco Packet Tracer 9.0.0 版本完整汉化文件(由于懒出天际用 jio 糊了个 python 自动汉化, 全程谷歌翻译)
 
